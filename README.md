@@ -3,7 +3,7 @@
 Fall recognition
 
 Python 3 
-Oringinally built/tested on TF/Pycharm
+Originally built/tested on TF/Pycharm
 
 Default testing clip included in the package, adjust parameters in main file to test different clips or image
 
