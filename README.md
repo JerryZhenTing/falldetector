@@ -5,7 +5,7 @@ Fall recognition
 Python 3 
 Oringinally built/tested on TF/Pycharm
 
-Default testing clip included in the package, adjust parameters in main file to test different clips
+Default testing clip included in the package, adjust parameters in main file to test different clips or image
 
 Using Tiny-YOLO oneclass to detect each person in the frame and use 
 [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) to get skeleton-pose and then use
